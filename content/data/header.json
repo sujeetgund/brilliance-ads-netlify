@@ -44,7 +44,7 @@
             "links": [
                 {
                     "label": "Digital Marketing",
-                    "url": "/",
+                    "url": "#",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
