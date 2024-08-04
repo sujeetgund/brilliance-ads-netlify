@@ -47,7 +47,7 @@
                     "url": "#",
                     "icon": "arrowRight",
                     "iconPosition": "right",
-                    "style": "secondary",
+                    "style": "primary",
                     "type": "Link",
                     "showIcon": false
                 },
