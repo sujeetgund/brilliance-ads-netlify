@@ -7,7 +7,7 @@ sections:
       text: Streamlined Advertising for Small Startups
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: 'Brilliance Ads is a one-stop, easy solution for advertising.'
     text: >
       A Netlify Create website is a git repo that you own. Every code commit is
       instantly reflected in the visual editor and since every visual edit is a
