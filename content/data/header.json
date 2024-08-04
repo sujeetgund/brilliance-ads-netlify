@@ -52,7 +52,7 @@
                 },
                 {
                     "label": "Brand Strategy",
-                    "url": "/",
+                    "url": "#",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
