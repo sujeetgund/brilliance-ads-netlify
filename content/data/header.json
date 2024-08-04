@@ -1,10 +1,12 @@
 {
     "logo": {
-        "url": "/images/logo-dark.svg",
+        "url": "/images/brilliance-ads (Custom).jpg",
         "altText": "Logo dark",
         "styles": {
             "self": {
-                "margin": ["mr-3"]
+                "margin": [
+                    "mr-3"
+                ]
             }
         },
         "type": "ImageBlock"
@@ -37,32 +39,46 @@
             "type": "Link"
         },
         {
-            "label": "Dropdown",
-            "altText": "Dropdown",
+            "label": "Services",
+            "altText": "Services",
             "links": [
                 {
-                    "label": "Dropdown item",
-                    "url": "/",
+                    "label": "Digital Marketing",
+                    "url": "#",
                     "icon": "arrowRight",
                     "iconPosition": "right",
-                    "style": "secondary",
-                    "type": "Link"
+                    "style": "primary",
+                    "type": "Link",
+                    "showIcon": false
                 },
                 {
-                    "label": "Dropdown item",
-                    "url": "/",
+                    "label": "Brand Strategy",
+                    "url": "#",
                     "icon": "arrowRight",
                     "iconPosition": "right",
-                    "style": "secondary",
-                    "type": "Link"
+                    "style": "primary",
+                    "type": "Link",
+                    "showIcon": false
                 },
                 {
-                    "label": "Dropdown item",
-                    "url": "/",
+                    "label": "Traditional Advertising",
+                    "url": "#",
                     "icon": "arrowRight",
                     "iconPosition": "right",
-                    "style": "secondary",
-                    "type": "Link"
+                    "style": "primary",
+                    "type": "Link",
+                    "showIcon": false
+                },
+                {
+                    "type": "Link",
+                    "label": "Creative Advertising",
+                    "altText": "",
+                    "url": "#",
+                    "showIcon": true,
+                    "icon": "arrowRight",
+                    "iconPosition": "right",
+                    "style": "primary",
+                    "elementId": ""
                 }
             ],
             "labelStyle": "secondary",
@@ -90,5 +106,6 @@
     ],
     "variant": "logo-left-primary-nav-centered",
     "colors": "bg-light-fg-dark",
-    "type": "Header"
+    "type": "Header",
+    "title": "Brilliance Ads"
 }
