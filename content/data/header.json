@@ -57,7 +57,8 @@
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "primary",
-                    "type": "Link"
+                    "type": "Link",
+                    "showIcon": false
                 },
                 {
                     "label": "Traditional Advertising",
